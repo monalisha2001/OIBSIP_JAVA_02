@@ -1,1 +1,3 @@
 # OIBSIP_JAVA_02
+
+This Java-based Number Guessing Game is a simple, interactive program where players try to guess a randomly generated number within a specified range. It provides feedback for each guess, indicating whether the guess is too high, too low, or correct. The game continues until the player guesses the correct number. This project demonstrates fundamental Java programming concepts such as loops, conditionals, user input handling, and random number generation. It is an excellent example of a beginner-friendly project, perfect for those looking to enhance their programming skills or seeking an internship project showcase.
